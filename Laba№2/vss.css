@@ -1,0 +1,30 @@
+#content {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#map {
+	height: 60%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+#footer {
+	height: 40%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.lb2 {
+	text-align: center;
+}
+
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #777;
+}
